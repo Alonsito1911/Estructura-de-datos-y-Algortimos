@@ -81,7 +81,7 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 | Evaluación | Fecha |
 | :-------------- | :--------- |
 | Interrogación 1 | 09 Septiembre 18:30 |
-| Interrogación 2 | 28 Octubre 18:30 |
+| Interrogación 2 | 24 Octubre 18:30 |
 | Interrogación 3 | 07 Diciembre 08:30 |
 
 ### Tareas
