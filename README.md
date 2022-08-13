@@ -54,6 +54,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 |   Tipo    | Número | Tema | | Material   |
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Ayudantía  |  0    |  Introduccion a C |    |  [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Taller%20de%20C/Taller%200_%20Introduccion%20a%20C.pdf) |
 
 
 ## Equipo
