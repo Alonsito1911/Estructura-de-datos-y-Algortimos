@@ -4,6 +4,7 @@
 #include "dog.h"
 
 Dog* dog_init(char* name, char* breed, int age) {
+  // Creamos un perro, pidiendo memoria para él
   Dog* dog = calloc(1, sizeof(Dog));
   *dog = (Dog) {
     .name = name,
