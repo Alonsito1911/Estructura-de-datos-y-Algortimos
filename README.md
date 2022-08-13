@@ -40,6 +40,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 ## Material Tareas
 
 - T0
+  - [Link para generar repositorio](https://classroom.github.com/a/ZLPXymdq)
 - T1
 - T2
 - T3
@@ -90,10 +91,10 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 
 | Evaluación | Fecha Publicacion | Fecha Entrega |
 | :--------- | :------------ | :------------ |
-| Tarea 0    |     |     |
-| Tarea 1    |     |     |
-| Tarea 2    |     |     |
-| Tarea 3    |     |     |
+| Tarea 0    |  12 Agosto 2022   |   30 Agosto 2022   |
+| Tarea 1    |  12 Septiembre 2022  |  29 Septiembre 2022   |
+| Tarea 2    |  03 Octubre 2022   |  21 Octubre 2022   |
+| Tarea 3    |  04 Noviembre 2022   |   24 Nov 2022  |
 
 La nota final del curso se calcula de la siguiente manera:
 
