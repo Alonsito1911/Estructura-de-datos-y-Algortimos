@@ -47,8 +47,9 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 ## Clases
 
-|   Tipo    | Número | Tema | Fecha | Material   |
-| :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   Tipo    | Número | Tema | Fecha | Sección 1  | Sección 2 |
+| :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+| Cátedra | 00 | Introducción | 2022-08-08 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class00%20-%20Introduccion%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class00%20-%20Introduccion%20-%20sec2.pdf)
 
   ## Ayudantias
 
@@ -62,7 +63,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 ### Profesores
 | Nombre  | Sección | Email |
 | :-------------- | :------ | :---------------- |
-| Sebastian Bugedo | 1  | bugedo@uc.cl |
+| Sebastián Bugedo | 1  | bugedo@uc.cl |
 | Mario Droguett | 2  | mario@uc.cl |
 
 ### Ayudantes
