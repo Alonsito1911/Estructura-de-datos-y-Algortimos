@@ -51,6 +51,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
 | Cátedra | 0 | Introducción | 2022-08-08 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class00%20-%20Introduccion%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class00%20-%20Introduccion%20-%20sec2.pdf) |
 | Cátedra | 1 | Selection sort | 2022-08-17 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class01%20-%20Selectionsort%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class01%20-%20Selectionsort%20-%20sec2.pdf) |
+| Cátedra | 2 | Insertion sort | 2022-08-22 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class02%20-%20Insertionsort%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class02%20-%20Insertionsort%20-%20sec2.pdf) |
 
   ## Ayudantias
 
