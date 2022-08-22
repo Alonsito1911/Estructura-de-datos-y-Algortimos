@@ -41,6 +41,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 - T0
   - [Link para generar repositorio](https://classroom.github.com/a/ZLPXymdq)
+  - [Tests](https://drive.google.com/drive/folders/15CDDUC_5whFC2yHPOm9dpPbEHwgvKJTL?usp=sharing)
 - T1
 - T2
 - T3
@@ -73,7 +74,26 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Nombre    | Email    | Github |
 | :----------------------- | :---------------------- | :------------------------------------------------------- |
 | Carlos Paredes (Jefe)   | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33) ||
-
+| Francisca De La Barra | fddelabarra@uc.cl | [@fddelabarra](https://www.github.com/fddelabarra) ||
+| Joaquín Donoso | j.donoso2@uc.cl | [@Joaquin3000](https://www.github.com/Joaquin3000) ||
+| Tamara Han  | than@uc.cl | [@tamyhan](https://www.github.com/tamyhan) ||
+| Alberto Almuna | alberto.almuna@uc.cl | [@ShescBlank](https://www.github.com/ShescBlank) ||
+| Nicole Caballero | nicole.caballero@uc.cl | [@nicolecll](https://www.github.com/nicolecll) ||
+| Victor Hernández  | victorllagos@uc.cl | [@victorllagos](https://www.github.com/victorllagos) ||
+| Cristian Carrasco | cristian.carrasco@uc.cl  | [@Aloncarrasco](https://www.github.com/Aloncarrasco) ||
+| Nicolás Santa María | n.santamaria@uc.cl | [@nsantama](https://www.github.com/nsantama) ||
+| Carolina Maggi | camaggi@uc.cl | [@carolinamaggi](https://www.github.com/carolinamaggi) ||
+| Rafael Elberg  | rafael.elberg@uc.cl | [@SugarFreeManatee](https://www.github.com/SugarFreeManatee) ||
+| Martín Illanes | martin.illanes@uc.cl | [@illanes00](https://www.github.com/illanes00) ||
+| Pedro Fuenzalida | pedro.fuenzalida@uc.cl | [@PedroFuenzalida](https://www.github.com/PedroFuenzalida) ||
+| Eduardo Oteiza | etoteiza@uc.cl | [@etoteiza](https://www.github.com/etoteiza) ||
+| Nicolás Espinoza | nespinov@uc.cl | [@nes07](https://www.github.com/nes07) ||
+| Heinz Busch | hwbusch@uc.cl | [@hebusch](https://www.github.com/hebusch) ||
+| Jose Antonio Castro | jacastro18@uc.cl | [@Baelfire18](https://www.github.com/Baelfire18) ||
+| Diego Costa | diegocostar@uc.cl | [@diegocostares](https://www.github.com/diegocostares) ||
+| José Manuel Madriaza | jm.madriaza@uc.cl | [@LeoMo-27](https://www.github.com/LeoMo-27) ||
+| Pablo Soto | P.soto.g@uc.cl | [@pablo-soto](https://www.github.com/pablo-soto) ||
+| Catalina Alamos | catalina.alamos@uc.cl | [@CataAlamos](https://www.github.com/CataAlamos) ||
 
 ## Evaluación
 
