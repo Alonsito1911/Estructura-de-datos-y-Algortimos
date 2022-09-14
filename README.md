@@ -60,6 +60,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Cátedra | 5 | Propiedades Quick sort | 2022-08-31 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class05%20-%20Propiedades%20Quicksort%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class05%20-%20Propiedades%20Quicksort%20-%20sec2.pdf) |
 | Cátedra | 6 | Árboles binarios de búsqueda | 2022-09-05 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class06%20-%20Arboles%20binarios%20de%20busqueda%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class06%20-%20Arboles%20binarios%20de%20busqueda.pdf) |
 | Cátedra | 7 | Árboles AVL | 2022-09-12 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class07%20-%20Arboles%20AVL%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class07%20-%20Arboles%20AVL%20-%20sec2.pdf) |
+| Cátedra | 8 | Árboles 2-3 | 2022-09-14 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class08%20-%20Arboles%202-3%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class08%20-%20Arboles%202-3%20-%20sec2.pdf) |
 
   ## Ayudantias
 
