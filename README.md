@@ -45,6 +45,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
   - [Script](https://github.com/IIC2133-PUC/2022-2/blob/master/Tareas/scripts/Script_T0.py)
 - T1
   - [Link para generar repositorio](https://classroom.github.com/a/YLTvEQup)
+  - [Tests](https://drive.google.com/drive/folders/1zVPkdnYao7hpdmpAe9xd9glXx0UxjZf3?usp=sharing)
 - T2
 - T3
 
