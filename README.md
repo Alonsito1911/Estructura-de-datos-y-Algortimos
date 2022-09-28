@@ -64,6 +64,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Cátedra | 8 | Árboles 2-3 | 2022-09-14 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class08%20-%20Arboles%202-3%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class08%20-%20Arboles%202-3%20-%20sec2.pdf) |
 | Cátedra | 9 | Árboles rojo-negro | 2022-09-21 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class09%20-%20Arboles%20rojo%20negro%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class09%20-%20Arboles%20rojo%20negro%20-%20sec2.pdf) |
 | Cátedra | 10 | Árboles rojo-negro II | 2022-09-26 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class10%20-%20Arboles%20rojo%20negro%20II%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class10%20-%20Arboles%20rojo%20negro%20II%20-%20sec2.pdf) |
+| Cátedra | 11 | Tablas de hash | 2022-09-28 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class11%20-%20Tablas%20de%20hash%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class11%20-%20Tablas%20de%20hash%20-%20sec2.pdf) |
 
   ## Ayudantias
 
