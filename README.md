@@ -136,30 +136,26 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 La nota final del curso se calcula de la siguiente manera:
 
 ```c++
-double nota_final()
-{
-    /* La nota de cada tarea */
-    double T0,T1,T2,T3;
-    /* La nota de cada interrogación*/
-    double I1,I2,I3;
+double nota_final() {
+  /* La nota de cada tarea */
+  double T0, T1, T2, T3;
+  /* La nota de cada interrogación*/
+  double I1, I2, I3;
 
-    /* Promedio de tareas */
-    double NT = 0.20 * T0 + 0.30 * T1 + 0.25 * T2 + 0.25 * T3;
-    /* Promedio de interrogaciones */
-    double NI = 0.25 * I1 + 0.30 * I2 + 0.45 * I3;
+  /* Promedio de tareas */
+  double NT = 0.20 * T0 + 0.30 * T1 + 0.25 * T2 + 0.25 * T3;
+  /* Promedio de interrogaciones */
+  double NI = 0.25 * I1 + 0.30 * I2 + 0.45 * I3;
 
-    /* Nota final */
-    double NF = (NT + NI) / 2;
+  /* Nota final */
+  double NF = (NT + NI) / 2;
 
-    /* Es necesario tener sobre 3.7 en las evaluaciones escritas y las tareas por separado para aprobar el curso */
-    if(NI < 3.7 || NT < 3.7)
-    {
-  return min(3.9, NF);
-    }
-    else
-    {
-  return min(NF, 7);
-    }
+  /* Es necesario tener sobre 3.7 en las evaluaciones escritas y las tareas por separado para aprobar el curso */
+  if (NI < 3.7 || NT < 3.7) {
+    return min(3.9, NF);
+  } else {
+    return min(NF, 7);
+  }
 }
 ```
 
