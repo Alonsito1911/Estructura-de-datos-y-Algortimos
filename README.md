@@ -47,6 +47,9 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
   - [Link para generar repositorio](https://classroom.github.com/a/YLTvEQup)
   - [Tests](https://drive.google.com/drive/folders/1zVPkdnYao7hpdmpAe9xd9glXx0UxjZf3?usp=sharing)
 - T2
+  - [Link para generar repositorio](https://classroom.github.com/a/zvrrxefO)
+  - [Tests](https://drive.google.com/drive/folders/1yn1Q9QvH9XMlTSPSf29_F0H6wEL5dvDv?usp=sharing)
+
 - T3
 
 ## Clases
