@@ -71,11 +71,19 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Cátedra | 12 | Hash y sorting lineal | 2022-10-03 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class12%20-%20Hash%20y%20sorting%20lineal%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class12%20-%20Hash%20y%20sorting%20lineal%20-%20sec2.pdf) |
 | Cátedra | 13 | Backtracking | 2022-10-05 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class13%20-%20Backtracking%20I%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class13%20-%20Backtracking%20I%20-%20sec2.pdf) |
 
-  ## Ayudantias
+  ## Ayudantías
 
 |   Tipo    | Número | Tema | | Material   |
-| :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Ayudantía  |  0    |  Introduccion a C |    |  [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Taller%20de%20C/Taller%200_%20Introduccion%20a%20C.pdf) |
+| :--- | :--- | :--- | :--- | :--- |
+| Taller | 0 | Introducción a C | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Taller%20de%20C/Taller%200_%20Introduccion%20a%20C.pdf) |
+| Ayudantía | 1 | Introducción a Sorting | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201_%20Introducci%C3%B3n%20a%20Sorting.pdf) |
+| Ayudantía | 2 | Merge, MergeSort y QuickSort | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%202_%20Merge%2C%20MergeSort%20y%20QuickSort.pdf) |
+| Ayudantía | 3 | Repaso I1 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%203_%20Repaso%20I1.pdf) |
+| Ayudantía | 4 | Árboles y Árboles Binarios | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%204_%20%C3%81rboles%20y%20%C3%81rboles%20Binarios.pdf) |
+| Ayudantía | 5 | Arboles RojoNegro | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%205_%20Arboles%20-%20RojoNegro.pdf) |
+| Ayudantía | 6 | Hash | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206_%20Hash.pdf) |
+| | | | |
+
 
 
 ## Equipo
