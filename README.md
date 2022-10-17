@@ -13,7 +13,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Material Complementario](#material-complementario)
   - [Material Tareas](#material-tareas)
   - [Clases](#clases)
-  - [Ayudantias](#ayudantias)
+  - [Ayudantias](#ayudantías)
   - [Equipo](#equipo)
     - [Profesores](#profesores)
     - [Ayudantes](#ayudantes)
@@ -84,7 +84,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Ayudantía | 4 | Árboles y Árboles Binarios | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%204_%20%C3%81rboles%20y%20%C3%81rboles%20Binarios.pdf) |
 | Ayudantía | 5 | Arboles RojoNegro | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%205_%20Arboles%20-%20RojoNegro.pdf) |
 | Ayudantía | 6 | Hash | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206_%20Hash.pdf) |
-| | | | |
+| Ayudantía | 7 | Sorting en O(n) | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%207_SortingO(n).pdf) |
 
 
 
