@@ -71,7 +71,8 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Cátedra | 12 | Hash y sorting lineal | 2022-10-03 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class12%20-%20Hash%20y%20sorting%20lineal%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class12%20-%20Hash%20y%20sorting%20lineal%20-%20sec2.pdf) |
 | Cátedra | 13 | Backtracking | 2022-10-05 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class13%20-%20Backtracking%20I%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class13%20-%20Backtracking%20I%20-%20sec2.pdf) |
 | Cátedra | 14 | Mejoras Backtracking | 2022-10-12 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class14%20-%20Backtracking%20II%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class14%20-%20Backtracking%20II%20-%20sec2.pdf) |
-| Cátedra | 15 | Grafos | 2022-10-12 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class15%20-%20Grafos%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class15%20-%20Grafos%20-%20sec2.pdf) |
+| Cátedra | 15 | Grafos | 2022-10-17 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class15%20-%20Grafos%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class15%20-%20Grafos%20-%20sec2.pdf) |
+| Cátedra | 16 | DFS y aplicaciones | 2022-10-19 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class16%20-%20DFS%20y%20aplicaciones%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class16%20-%20DFS%20y%20aplicaciones%20-%20sec2.pdf) |
 
   ## Ayudantías
 
