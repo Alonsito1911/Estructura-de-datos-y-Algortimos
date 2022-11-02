@@ -74,6 +74,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Cátedra | 15 | Grafos | 2022-10-17 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class15%20-%20Grafos%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class15%20-%20Grafos%20-%20sec2.pdf) |
 | Cátedra | 16 | DFS y aplicaciones | 2022-10-19 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class16%20-%20DFS%20y%20aplicaciones%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class16%20-%20DFS%20y%20aplicaciones%20-%20sec2.pdf) |
 | Cátedra | 17 | Algoritmos codiciosos | 2022-10-26 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class17%20-%20Algoritmos%20codiciosos%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class17%20-%20Algoritmos%20codiciosos%20-%20sec2.pdf) |
+| Cátedra | 18 | Programación dinámica | 2022-11-02 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class18%20-%20Programaci%C3%B3n%20din%C3%A1mica%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class18%20-%20Programaci%C3%B3n%20din%C3%A1mica%20-%20sec2.pdf) |
 
   ## Ayudantías
 
