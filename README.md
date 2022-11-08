@@ -90,6 +90,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Ayudantía | 6 | Hash | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206_%20Hash.pdf) |
 | Ayudantía | 7 | Sorting en O(n) | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%207_%20SortingO(n).pdf) |
 | Ayudantía | 8 | Repaso I2 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%208_%20Repaso%20I2.pdf) |
+| Ayudantía | 9 | Algorítmos en grafos | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%209_%20Algoritmos%20en%20gr%C3%A1fos.pdf) |
 
 
 
