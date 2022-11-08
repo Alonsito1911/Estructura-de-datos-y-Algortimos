@@ -152,7 +152,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Tarea 0    | 12 Agosto 2022     | 30 Agosto 2022     |
 | Tarea 1    | 12 Septiembre 2022 | 30 Septiembre 2022 |
 | Tarea 2    | 04 Octubre 2022    | 21 Octubre 2022    |
-| Tarea 3    | 08 Noviembre 2022  | 24 Noviembre 2022  |
+| Tarea 3    | 08 Noviembre 2022  | 25 Noviembre 2022  |
 
 La nota final del curso se calcula de la siguiente manera:
 
