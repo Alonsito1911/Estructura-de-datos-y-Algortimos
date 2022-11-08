@@ -83,7 +83,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Ayudantía | 2 | Merge, MergeSort y QuickSort | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%202_%20Merge%2C%20MergeSort%20y%20QuickSort.pdf) |
 | Ayudantía | 3 | Repaso I1 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%203_%20Repaso%20I1.pdf) |
 | Ayudantía | 4 | Árboles y Árboles Binarios | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%204_%20%C3%81rboles%20y%20%C3%81rboles%20Binarios.pdf) |
-| Ayudantía | 5 | Arboles RojoNegro | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%205_%20Arboles%20-%20RojoNegro.pdf) |
+| Ayudantía | 5 | Árboles RojoNegro | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%205_%20Arboles%20-%20RojoNegro.pdf) |
 | Ayudantía | 6 | Hash | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206_%20Hash.pdf) |
 | Ayudantía | 7 | Sorting en O(n) | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%207_%20SortingO(n).pdf) |
 | Ayudantía | 8 | Repaso I2 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%208_%20Repaso%20I2.pdf) |
@@ -142,12 +142,12 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito.
 
-| Evaluación | Fecha Publicacion | Fecha Entrega |
-| :--------- | :------------ | :------------ |
-| Tarea 0    |  12 Agosto 2022   |   30 Agosto 2022   |
-| Tarea 1    |  12 Septiembre 2022  |  30 Septiembre 2022   |
-| Tarea 2    |  03 Octubre 2022   |  21 Octubre 2022   |
-| Tarea 3    |  04 Noviembre 2022   |   24 Nov 2022  |
+| Evaluación | Fecha Publicacion  | Fecha Entrega      |
+| :--------- | :----------------- | :----------------- |
+| Tarea 0    | 12 Agosto 2022     | 30 Agosto 2022     |
+| Tarea 1    | 12 Septiembre 2022 | 30 Septiembre 2022 |
+| Tarea 2    | 04 Octubre 2022    | 21 Octubre 2022    |
+| Tarea 3    | 08 Noviembre 2022  | 24 Noviembre 2022  |
 
 La nota final del curso se calcula de la siguiente manera:
 
