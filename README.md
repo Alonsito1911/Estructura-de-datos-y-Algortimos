@@ -77,6 +77,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Cátedra | 17 | Algoritmos codiciosos | 2022-10-26 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class17%20-%20Algoritmos%20codiciosos%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class17%20-%20Algoritmos%20codiciosos%20-%20sec2.pdf) |
 | Cátedra | 18 | Programación dinámica | 2022-11-02 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class18%20-%20Programaci%C3%B3n%20din%C3%A1mica%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class18%20-%20Programaci%C3%B3n%20din%C3%A1mica%20-%20sec2.pdf) |
 | Cátedra | 19 | Heaps y heapsort | 2022-11-07 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class19%20-%20Heaps%20y%20heapsort%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class19%20-%20Heaps%20y%20heapsort%20-%20sec2.pdf) |
+| Cátedra | 20 | BFS y algoritmo de Dijkstra | 2022-11-09 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class20%20-%20BFS%20y%20Dijkstra%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class20%20-%20BFS%20y%20Dijkstra%20-%20sec2.pdf) |
 
   ## Ayudantías
 
