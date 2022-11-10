@@ -9,11 +9,13 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 - [IIC2133 - Estructuras de Datos y Algoritmos](#iic2133---estructuras-de-datos-y-algoritmos)
   - [2022-2](#2022-2)
   - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Talleres](#talleres)
   - [Material Complementario](#material-complementario)
+    - [Talleres fundamentos de C](#talleres-fundamentos-de-c)
+    - [Capsulas de EDD y Algoritmos en C](#capsulas-de-edd-y-algoritmos-en-c)
+    - [Material catedra extra](#material-catedra-extra)
   - [Material Tareas](#material-tareas)
   - [Clases](#clases)
-  - [Ayudantias](#ayudantías)
+  - [Ayudantías](#ayudantías)
   - [Equipo](#equipo)
     - [Profesores](#profesores)
     - [Ayudantes](#ayudantes)
@@ -23,19 +25,21 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Política de Atrasos](#política-de-atrasos)
   - [Política de integridad académica](#política-de-integridad-académica)
 
-## Talleres
+## Material Complementario
+### Talleres fundamentos de C
 
 - [Intro a C por Vicente Errázuriz y Raúl Álvarez](https://github.com/DCCentral-de-Apuntes/intro-C)
-
 - [Capsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
 
-## Material Complementario
-
-Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aquí](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
-
+### Capsulas de EDD y Algoritmos en C
 - [Capsula DFS](https://youtu.be/tJV3CV0edl0)
 - [Capsula BST en C](https://youtu.be/j9W1qKCvFRE)
 - [Capsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
+- [Capsula MinHeap en C](https://youtu.be/LYe67zvL9vY)
+
+### Material catedra extra
+- [Lista de reproducción 2021-2](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
+- [Explicación BVH y KdTree](https://youtu.be/_mSVK0OaaYw)
 
 ## Material Tareas
 
@@ -52,6 +56,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 - T3
   - [Link para generar repositorio](https://classroom.github.com/a/9oL9fQQT)
+  - [Capsula lectura enunciado](https://youtu.be/pf96kPLYdJY)
 
 ## Clases
 
