@@ -98,7 +98,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 7 | Sorting en O(n) | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2007_%20SortingO(n).pdf) |
 | Ayudantía | 8 | Repaso I2 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2008_%20Repaso%20I2.pdf) |
 | Ayudantía | 9 | Algorítmos en grafos | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2009_%20Algoritmos%20en%20gr%C3%A1fos.pdf) |
-| Ayudantía | 10 | Pauta T2, BFS y Dijkstra | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudantia%2010.pdf) |
+| Ayudantía | 10 | Pauta T2, BFS y Dijkstra | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2010.pdf) |
 
 
 ## Equipo
