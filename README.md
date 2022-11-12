@@ -89,16 +89,16 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 |   Tipo    | Número | Tema | | Material   |
 | :--- | :--- | :--- | :--- | :--- |
 | Taller | 0 | Introducción a C | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Taller%20de%20C/Taller%200_%20Introduccion%20a%20C.pdf) |
-| Ayudantía | 1 | Introducción a Sorting | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201_%20Introducci%C3%B3n%20a%20Sorting.pdf) |
-| Ayudantía | 2 | Merge, MergeSort y QuickSort | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%202_%20Merge%2C%20MergeSort%20y%20QuickSort.pdf) |
-| Ayudantía | 3 | Repaso I1 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%203_%20Repaso%20I1.pdf) |
-| Ayudantía | 4 | Árboles y Árboles Binarios | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%204_%20%C3%81rboles%20y%20%C3%81rboles%20Binarios.pdf) |
-| Ayudantía | 5 | Árboles RojoNegro | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%205_%20Arboles%20-%20RojoNegro.pdf) |
-| Ayudantía | 6 | Hash | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206_%20Hash.pdf) |
-| Ayudantía | 7 | Sorting en O(n) | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%207_%20SortingO(n).pdf) |
-| Ayudantía | 8 | Repaso I2 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%208_%20Repaso%20I2.pdf) |
-| Ayudantía | 9 | Algorítmos en grafos | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%209_%20Algoritmos%20en%20gr%C3%A1fos.pdf) |
-
+| Ayudantía | 1 | Introducción a Sorting | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2001_%20Introducci%C3%B3n%20a%20Sorting.pdf) |
+| Ayudantía | 2 | Merge, MergeSort y QuickSort | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2002_%20Merge%2C%20MergeSort%20y%20QuickSort.pdf) |
+| Ayudantía | 3 | Repaso I1 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2003_%20Repaso%20I1.pdf) |
+| Ayudantía | 4 | Árboles y Árboles Binarios | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2004_%20%C3%81rboles%20y%20%C3%81rboles%20Binarios.pdf) |
+| Ayudantía | 5 | Árboles RojoNegro | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2005_%20Arboles%20-%20RojoNegro.pdf) |
+| Ayudantía | 6 | Hash | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2006_%20Hash.pdf) |
+| Ayudantía | 7 | Sorting en O(n) | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2007_%20SortingO(n).pdf) |
+| Ayudantía | 8 | Repaso I2 | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2008_%20Repaso%20I2.pdf) |
+| Ayudantía | 9 | Algorítmos en grafos | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2009_%20Algoritmos%20en%20gr%C3%A1fos.pdf) |
+| Ayudantía | 10 | Pauta T2, BFS y Dijkstra | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudantia%2010.pdf) |
 
 
 ## Equipo
