@@ -57,6 +57,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 - T3
   - [Link para generar repositorio](https://classroom.github.com/a/9oL9fQQT)
   - [Capsula lectura enunciado](https://youtu.be/pf96kPLYdJY)
+  - [Tests](https://drive.google.com/drive/folders/1QLaSR49-gBEW2VDEXah9AvuKYEXk7BL6?usp=share_link)
 
 ## Clases
 
@@ -189,6 +190,13 @@ double nota_final() {
 
 ## Política de Atrasos
 
+La formula de atrasos es la siguiente:
+
+```c++
+  double nota_con_atraso(double nota, int dias_de_atraso){
+    return max(1.0, nota - 0.7 * dias_de_atraso**1.3);
+  }
+```
 
 ## Política de integridad académica
 
