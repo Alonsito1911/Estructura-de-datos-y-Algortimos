@@ -58,6 +58,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Link para generar repositorio](https://classroom.github.com/a/9oL9fQQT)
   - [Capsula lectura enunciado](https://youtu.be/pf96kPLYdJY)
   - [Tests](https://drive.google.com/drive/folders/1QLaSR49-gBEW2VDEXah9AvuKYEXk7BL6?usp=share_link)
+  - [Script revisor parte 1](https://github.com/IIC2133-PUC/2022-2/blob/master/Tareas/scripts/T3_mst_checker.py)
 
 ## Clases
 
