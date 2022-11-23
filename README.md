@@ -88,6 +88,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Cátedra | 21 | MST y algoritmo de Prim | 2022-11-14 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class21%20-%20MST%20y%20algoritmo%20de%20Prim%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class21%20-%20MST%20y%20algoritmo%20de%20Prim%20-%20sec2.pdf) |
 | Cátedra | 22 | Algoritmo de Kruskal y conjuntos disjuntos | 2022-11-16 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class22%20-%20MST%20y%20algoritmo%20de%20Kruskal%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class22%20-%20MST%20y%20algoritmo%20de%20Kruskal%20-%20sec2.pdf) |
 | Cátedra | 23 | Algoritmo de Bellman-Ford | 2022-11-21 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class23%20-%20Algoritmo%20de%20Bellman%20Ford%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class23%20-%20Algoritmo%20de%20Bellman%20Ford%20-%20sec2.pdf) |
+| Cátedra | 24 | Algoritmo de Floyd-Warshall | 2022-11-23 | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%201/class24%20-%20Algoritmo%20de%20Floyd%20Warshall%20-%20sec1.pdf) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Clases/Secci%C3%B3n%202/class24%20-%20Algoritmo%20de%20Floyd%20Warshall%20-%20sec2.pdf) |
 
   ## Ayudantías
 
