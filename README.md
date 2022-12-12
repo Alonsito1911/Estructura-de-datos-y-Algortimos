@@ -106,7 +106,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 9 | Algorítmos en grafos | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2009_%20Algoritmos%20en%20gr%C3%A1fos.pdf) |
 | Ayudantía | 10 | Pauta T2, BFS y Dijkstra | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2010_%20Pauta%20T2%2C%20BFS%20y%20Dijkstra.pdf) |
 | Ayudantía | 11 | MST, Prim, Kruscal | | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2011_%20MST%2C%20Prim%2C%20Kruscal.pdf) |
-| Ayudantía | 12 | Repaso I3 | [Grabacion](https://youtu.be/AyisGWoEVKg) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Repaso_I3.pdf) |
+| Ayudantía | 12 | Repaso I3 | [Grabacion](https://youtu.be/AyisGWoEVKg) | [Diapos](https://github.com/IIC2133-PUC/2022-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2012_%20Repaso%20I3.pdf) |
 
 
 ## Equipo
